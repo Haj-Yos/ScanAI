@@ -3,6 +3,13 @@
 *.ap_
 *.aab
 
+# Large model files
+*.tflite
+
+# Build outputs
+app/build/
+build/
+
 # Files for the ART/Dalvik VM
 *.dex
 
